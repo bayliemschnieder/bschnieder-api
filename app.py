@@ -15,7 +15,7 @@ def home():
     return (
         "<h1>Salary Prediction API</h1>"
         "<p>BAIS:3300 - Digital Product Development</p>"
-        "<p>Baylie Spythchnieder</p>"
+        "<p>Baylie Schnieder</p>"
     )
 
 @app.route("/health", methods=["GET"])
